@@ -1,6 +1,6 @@
 <div align="center">
 
-  # E-Commerce App 🛒
+  # FOREVER 🛒
 </div>
 
 **FOREVER** is a full-stack web application that enables users to explore a variety of products, filter them based on specific attributes, and add items to their cart by selecting desired variants like size. Users can place orders by providing delivery addresses and selecting their preferred payment method—either **Cash on Delivery (COD)** or **Online Payment**. The application integrates `Stripe` as the online payment gateway, ensuring secure and seamless transactions.
