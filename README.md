@@ -30,8 +30,6 @@ Additionally, an **Admin Dashboard** is included, where administrators can manag
 
 [Installation-and-Setup](#installation-and-setup)
 
-[Screenshots](#screenshots)
-
 [Future-Enhancements](#future-enhancements)
 
 [Contribution](#contribution)
