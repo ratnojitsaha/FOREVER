@@ -13,9 +13,9 @@ Additionally, an **Admin Dashboard** is included, where administrators can manag
 
 ## DEMO 🌐
   
-**UI** Live 👉 [LINK](live link)
+**UI** Live 👉 https://forever-ratno.vercel.app/
 
-**Admin Dashboard** 👉 [LINK](admin dashboard link)
+**Admin Dashboard** 👉 https://forever-admin-ratno.vercel.app/
 </div>
 
 <br/><hr/><br/>
